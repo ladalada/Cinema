@@ -1,0 +1,87 @@
+input[name='id']{
+    visibility: hidden;
+}
+button{
+    background-color: white;
+}
+body{
+    background-image: url("bg4.jpg");
+}
+ul li{
+    list-style: none;
+}
+form{
+    position: relative;
+    text-align: center;
+    text-align: center;
+}
+.info{
+    background-color: white;
+}
+table{
+    position: relative;
+    margin: 0 auto;
+    background-color: white;
+    text-align: center;
+}
+.actions{
+    text-align: center;
+    margin: 20px;
+}
+.index{
+    background-color: white;
+    padding: 12px;
+    border-radius: 27px;
+}
+.remove{
+    padding: 6px;
+    background-color: crimson;
+    color:white;
+    margin: 2px;
+}
+.registration{
+    /*text-align: center;*/
+    background: white;
+    padding: 9px;
+}
+.line{
+    position: center;
+    width: 200px;
+    margin-bottom: 20px;
+}
+.news{
+    text-align: center;
+}
+.statistics{
+    text-align: center;
+    background-color: white;
+}
+.movie{
+    text-align: center;
+    width: 600px;
+    padding: 100px;
+    margin: auto;
+    background: black;
+}
+.news li{
+    background-color: white;
+}
+.name{
+    text-align: center;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+}
+.list-group-item{
+    background: white;
+    margin: 12px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.new_service{
+    position: center;
+    left: 20%;
+    background-color: white;
+}

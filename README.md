@@ -1,10 +1,10 @@
 # Cinema
 
-Веб-приложение "Онлайн-кинотеатр"  
+Веб-приложение "Онлайн-кинотеатр" с использованием Spring Boot и Spring Security 
 
 Запуск: *localhost:8081*
 
-Веб-сервер: *Apache TomCat*
+Веб-сервер: *Apache Tomcat*
 
 БД: *PostgreSQL*
 
